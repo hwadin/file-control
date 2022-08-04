@@ -1,0 +1,105 @@
+WINDOW + SHIFT + S 선택영역 바로 캡쳐
+
+<여러줄 선택해서 한번에 변경>
+alt + shift + a
+
+<임포트설정>
+Ctrl+Shift+O
+
+<자동 줄바꿈>
+Alt+shift+y
+
+<package explorer 창 끄고 닫기 >
+ctrl +m
+
+<생성자출력>
+alt + s + a
+
+<override 메소드 출력>
+alt + s+ v
+
+<Object의 toString() 재정의>
+alt + s + s + s
+
+<getter/setter 출력>
+alt+s+r
+
+<system.out.print(); 출력>
+syso+ctrl+space
+
+ * Ctrl + Shift + L : 모든 단축키의 내용을 표시해준다.
+
+ * Ctrl + Shift + F : 코드 자동 정렬
+
+ * Ctrl + Shift + R : 전체 리소스에서 파일 찾기
+
+ * alt + s + a : 생성자 단축키
+
+ * alt + s + r : Getter / Setter 단축키
+
+ * alt + s + v : 메소드 단축키
+
+ * Ctrl + Space : 입력 보조장치(Content Assistance) 강제 호출 => 입력하는 도중엔 언제라도 강제 호출 가능하다.
+
+ * F2 : 컴파일 에러의 빨간줄에 커서를 가져다가 이 키를 누르면 에러의 원인에 대한 힌트를 제공한다.
+
+ * Ctrl + Shift + / : 블록 주석
+
+ * Ctrl + Shift + \ : 블록 주석 제거
+
+ * Ctrl + L : 특정 라인으로 이동
+
+ * Ctrl + F6 : Editor 창간의 이동
+
+ * Ctrl + F7 : View 이동 메뉴
+
+ * Ctrl + F8 : Prespectives 이동 메뉴
+
+ * Ctrl + D : 한라인 삭제 - 커서가 위치한 라인 전체를 삭제 한다.
+
+ * Ctrl + N : 새로운 파일 / 프로젝트 생성
+
+ * Ctrl + 1 (빠른교정) - 문 맥에 맞게 소스 교정을 도와 준다.
+
+ * Ctrl + 0 : 클래스 구조를 트리로 보기
+
+ * Ctrl + PageUp , Ctrl + PageDown : Edit 창 좌우 이동 - Edit 창이 여러개 띄워져 있을경우 Edit 창간의 이동 한다.
+
+ * Ctrl + Shift + Down : 클래스 내에서 다음 멤버로 이동
+
+ * Ctrl + Shift + M : 해당 객체의 Import 문을 자동 생성
+
+ * Ctrl + Shift + O : import 문을 자동 생성 - 전체 소스 구문에서 import 안된 클래스의 import 문을 생성해 준다.
+
+ * Ctrl + Shift + G : 해당 메서드 / 필드를 쓰이는 곳을 표시 - View 영역에 Search 탭에 해당 메서드 / 필드를 사용하는 클래스를 표시 해준다.
+
+ * Alt + Shift + R : Refactoring (이름변경)
+
+ * Alt + Up , Alt + Down : 줄 바꿈 - 해당 라인을 위 / 아래로 이동 시킨다.
+
+ * Alt + Shift + S : Source Menu - 소스메뉴 (Import 추가 , Comment 추가 , 각종 Generator 메뉴) 가 나타난다.
+
+ * Alt + Shift + Up : 블록설정 - 소스 코드를 블록 단위로 설정해 준다.
+
+ * Alt + Shift + Down : 블록해제 - 소스 코드를 블록 단위로 해제한다.
+
+ * Alt + Shift + J : 주석 생성 - 해당 메서드/클래스에 대한 주석을 템플릿을 생성해 준다.
+
+ * Alt + S + W : try chtch 자동 완성
+
+ * Alt + Shift + Z : try chtch 자동 완성
+
+ * Shift + Home : 문장 전체 선택
+
+
+ * Ctrl + / : 여러줄이 한꺼번에 주석처리됨. 주석 해제하려면 반대로 하면 된다.
+
+ * Alt + Up(Down) : 위(아래)줄과 바꾸기
+
+ * Ctrl + / : 주석 처리 - 한 라인/블록에 대해 주석 처리 (추가 및 제거)
+
+
+https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.29
+
+
+커밋 비번 : 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
